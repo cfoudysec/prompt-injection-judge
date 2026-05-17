@@ -2,7 +2,7 @@
 
 > **This tool is naive on purpose.** It is the measurement baseline, not a defense.
 
-`pij` is a deliberately naive regex-based detector for prompt injection patterns, released as an AI safety research artifact. Its job is to be the honest floor — the measurement baseline that real defenses (classifiers, structured queries, constitutional methods) have to beat to be worth taking seriously.
+`pij` is a deliberately naive regex-based detector for prompt injection patterns, released as an AI safety research artifact. Its job is to be the honest floor, the measurement baseline that real defenses (classifiers, structured queries, constitutional methods) have to beat to be worth taking seriously.
 
 **Measurement before mitigation.**
 
